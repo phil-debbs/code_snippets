@@ -1,0 +1,7 @@
+E:\Dropbox\Projects\Bootcamp\FiboCsharp\FiboCsharp\bin\Debug\FiboCsharp.exe.config
+E:\Dropbox\Projects\Bootcamp\FiboCsharp\FiboCsharp\bin\Debug\FiboCsharp.exe
+E:\Dropbox\Projects\Bootcamp\FiboCsharp\FiboCsharp\bin\Debug\FiboCsharp.pdb
+E:\Dropbox\Projects\Bootcamp\FiboCsharp\FiboCsharp\obj\Debug\FiboCsharp.csprojAssemblyReference.cache
+E:\Dropbox\Projects\Bootcamp\FiboCsharp\FiboCsharp\obj\Debug\FiboCsharp.csproj.CoreCompileInputs.cache
+E:\Dropbox\Projects\Bootcamp\FiboCsharp\FiboCsharp\obj\Debug\FiboCsharp.exe
+E:\Dropbox\Projects\Bootcamp\FiboCsharp\FiboCsharp\obj\Debug\FiboCsharp.pdb
